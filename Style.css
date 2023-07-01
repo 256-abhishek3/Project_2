@@ -1,0 +1,25 @@
+body{
+    padding:50px 100px;
+    background-color: hotpink;
+}
+h1{
+    text-align: center;
+   
+}
+#container{
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 50px;
+    box-shadow: 2px 2px 2px 2px ;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
